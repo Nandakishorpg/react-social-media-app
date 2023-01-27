@@ -1,0 +1,58 @@
+
+
+.newPost {
+    /* width:100% ; */
+    /* border: 1px solid black;  */
+    height: 500px;
+    width: 650px;
+    margin-bottom: 35px;
+   
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #f5f1f1;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+.postProfilePic {
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    margin: 15px;
+
+}
+
+.newPostImage {
+    height: 340px;
+    /* width: 620px; */
+    width: 100%;
+    /* margin-left: 15px; */
+    margin-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+    /* border-radius: 10px; */
+    
+}
+
+.postProfileDot {
+    margin-left: 470px;
+    margin-top: 60px;
+}
+.postImageText{
+    margin-left: 20px;
+}
+.postTime{
+    padding-left: 30px;
+    font-size: 15px;
+}
+.newPostIcons{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: rgb(49, 135, 205);
+}
+.likeIcon{
+    color: rgb(245, 90, 7);
+    margin-left: 10px;
+}
+.likedCount{
+    color: black;
+}

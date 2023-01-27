@@ -1,0 +1,30 @@
+
+.friendList{
+    list-style: none;
+    padding: 0px;
+    width: 200px;
+    
+    
+}
+.friends{
+    height: 60%;
+    width: 200px; ;
+    /* border: 1px solid black; */
+}
+.friendListItem{
+    padding-bottom: 10px;
+    
+}
+.FriendImage{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    
+    
+}
+
+    .friendListItemText{
+        padding-left: 20px;
+    }
+
+

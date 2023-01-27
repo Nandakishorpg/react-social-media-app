@@ -1,0 +1,9 @@
+.homecontainer{
+    display: flex;
+    width: 100%;
+    
+}
+.h{
+    margin-top: 230px;
+    margin-left: -650px;
+}

@@ -1,0 +1,74 @@
+.Rightbar{
+    /* border: 1px solid black; */
+    width: 490px;
+    height: 600px;
+    margin-left: 25px;
+    box-shadow: 0 0 5px 5px #f5f1f1;
+    margin-top: 10px;
+    position: relative;
+    overflow: scroll;
+    position: sticky;
+    border-radius: 5px;
+    
+}
+.rightbarGiftIcon{
+    height: 45px;
+    width: 45px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.rightbarPhoto{
+    width: 400px;
+    height: 290px;
+    margin-left: 32px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+/* .birthdayText{
+    position: relative;
+    margin-top: 30px;
+
+} */
+.rightsidebarList{
+    list-style: none;
+    
+
+}
+.rightsidebarWrapper{
+    
+    margin-top: 20px;
+}
+.onlinefriends{
+    height: 50px;
+    width: 50px;
+    /* border-radius: 25px;
+    margin: 10px; */
+}
+.rightsidebarListItemText{
+    margin-left: 20px;
+}
+.rightsidebarListItem{
+    padding-bottom: 20px;
+}
+.Badge{
+    color: red;
+}
+
+
+::-webkit-scrollbar{
+    width: 5px;
+    
+    
+    
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(198, 192, 192);
+    
+
+
+}
+::-webkit-scrollbar-thumb{
+    background-color: gray;
+    
+
+}

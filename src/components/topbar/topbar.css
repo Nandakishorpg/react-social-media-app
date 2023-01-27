@@ -1,0 +1,75 @@
+
+
+.navbar{
+    color: rgb(243, 241, 239);
+}
+#navbarNavAltMarkup{
+    margin-left:600px;
+}
+
+.topbarIcon{
+   position: relative;
+   margin-left: -500px;
+}
+
+#topbarSearchIcon{
+    margin-left: -623px;
+}
+#topbarSearch{
+    margin-left: 230px;
+    width: 610px;
+    border-radius: 40px;
+    
+}
+.navbar-brand{
+    padding-left: 8px;
+}
+.navbar-nav{
+    margin-left: 10px;
+    position: relative;
+    margin-left: -570px;
+}
+.topBarUserIcon{
+    margin-top: 7px;
+    padding-left: 60px;
+    
+}
+.topbarMessageIcon{
+    margin-top: 7px;
+    padding-left: 17px;
+    position: relative;
+
+}
+.topbarAlarmIcon{
+    margin-top: 7px;
+    padding-left: 15px;
+  
+    
+}
+#topbarNavBar{
+    background: #eb2632;
+    width: 1570px;
+   
+}
+.ProfileImage{
+    height: 41px;
+    width: 41px;
+    position: relative;
+    margin-left: 110px;
+    border-radius: 25px;
+}
+.navLinkProfile{
+    color: white;
+    padding-right: 10px;
+    margin-top: 3px;
+}
+.navLinkHome{
+    color: white;
+    margin-top: 3px;
+}
+
+.navLinkReg{
+    padding-left: 20px;
+    margin-top: 3px;
+
+}

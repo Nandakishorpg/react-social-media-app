@@ -1,0 +1,104 @@
+.status{
+    height: 100%;
+}
+.statusRow {
+    width: 650px;
+    height: 160px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #f5f1f1;
+    
+}
+
+.statusProfileImage {
+    height: 57px;
+    width: 55px;
+
+    border-radius: 31px;
+    margin-top: 10px;
+    display: inline;
+    
+}
+
+#coll{
+    height: 80px;
+    display: inline;
+
+}
+#koll{
+    height: 80px;
+    width: 100%;
+    margin-left: 1px;
+}
+.PhotoLibraryRoundedIcon{
+    margin-top: 20px;
+    color: rgb(243, 146, 9);
+    display: inline;
+    
+   
+    
+}
+.tagIcon{
+    display: inline;
+    color: blue;
+    padding-left: 10px;
+    
+}
+.PhotoLibraryRoundedIconText{
+    color: black;
+}
+.tagIconText{
+    color: black;
+}
+.locationIcon{
+    color: green;
+    display: inline;
+    padding-left: 10px;
+
+}
+.locationIconText{
+    color: black;
+}
+.feelingsIcon{
+    display: inline;
+    color: rgb(248, 188, 8);
+    padding-left: 10px;
+
+
+}
+.feelingsIconText{
+    color: black;
+}
+.statusText{
+    
+    
+    margin-left: 90px;
+    margin-top: -50px;
+    display: inline;
+}
+.statusInputText{
+    border: none;
+    /* display: inline; */
+   
+
+}
+.statusLine{
+    width: 100px;
+}
+.statusShareButton{
+    
+    display: inline;
+    
+    
+    float: right;
+    margin-right: 20px;
+    margin-top: -23px;
+    background-color: rgb(39, 155, 39);
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+}
+.statusShareButtonText{
+    color: white;
+}
